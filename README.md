@@ -1,2 +1,3 @@
 # MAE-Model
-Ipmlamatation of Modulated Network for Image 
+Imlementation of Modulated Network for Image Compression
+https://arxiv.org/abs/1912.05526
